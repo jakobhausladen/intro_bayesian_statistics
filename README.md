@@ -6,7 +6,7 @@ This repository contains a collection of simple Python scripts I wrote while rea
 
 - Donovan, Therese, and Ruth M. Mickey, *Bayesian Statistics for Beginners: a step-by-step approach* (Oxford, 2019)
 
-They helped me make sense of some of the concepts discussed.
+They helped me make sense of some of the concepts discussed there.
 
 ## Repository Contents
 
